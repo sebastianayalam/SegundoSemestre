@@ -1,0 +1,8 @@
+package POO.Semana1;
+
+public class Ejecutar {
+   public static void main(String[] args) {
+    System.out.println("HOLA MUNDO! !"); 
+   }
+    
+}
